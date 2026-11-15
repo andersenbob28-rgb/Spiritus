@@ -1,0 +1,4425 @@
+[
+  {
+    "id": 1700000000001,
+    "navn": "Azelia x – Barolo",
+    "kategori": "Rødvin",
+    "aar": "2013",
+    "styrke": "",
+    "hylde": "2",
+    "antal": 1,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Historik: 11  Sep 2021. Mmm. Mama likes"
+      },
+      {
+        "dato": "",
+        "tekst": "Købt: 2019"
+      }
+    ]
+  },
+  {
+    "id": 1700000000002,
+    "navn": "Azelia x – Barolo",
+    "kategori": "Rødvin",
+    "aar": "2016",
+    "styrke": "",
+    "hylde": "2",
+    "antal": 2,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Købt: 2020"
+      }
+    ]
+  },
+  {
+    "id": 1700000000003,
+    "navn": "Azelia mangler – Langhe Nebbiolo",
+    "kategori": "Rødvin",
+    "aar": "2018",
+    "styrke": "",
+    "hylde": "2",
+    "antal": 1,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Købt: 2020"
+      }
+    ]
+  },
+  {
+    "id": 1700000000004,
+    "navn": "Baricci x – Brunello",
+    "kategori": "Rødvin",
+    "aar": "2013",
+    "styrke": "",
+    "hylde": "4",
+    "antal": 2,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Historik: 13 Marts2021- fantastisk mama loves !  2. april. Mmm. 8. Okt 2021. Mums"
+      },
+      {
+        "dato": "",
+        "tekst": "Købt: 2018"
+      }
+    ]
+  },
+  {
+    "id": 1700000000005,
+    "navn": "Baricci x – Brunello",
+    "kategori": "Rødvin",
+    "aar": "2015",
+    "styrke": "",
+    "hylde": "4",
+    "antal": 3,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Købt: 2020"
+      }
+    ]
+  },
+  {
+    "id": 1700000000006,
+    "navn": "Baricci x – Brunello",
+    "kategori": "Rødvin",
+    "aar": "2012",
+    "styrke": "",
+    "hylde": "4",
+    "antal": 2,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Historik: 15 okt. 2021. Lidt lukket. Ikke wow."
+      },
+      {
+        "dato": "",
+        "tekst": "Købt: 2020"
+      }
+    ]
+  },
+  {
+    "id": 1700000000007,
+    "navn": "Baricci x – Brunello",
+    "kategori": "Rødvin",
+    "aar": "2016",
+    "styrke": "",
+    "hylde": "4",
+    "antal": 4,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Købt: 2021"
+      }
+    ]
+  },
+  {
+    "id": 1700000000008,
+    "navn": "Brovia x – Barolo",
+    "kategori": "Rødvin",
+    "aar": "2016",
+    "styrke": "",
+    "hylde": "2",
+    "antal": 2,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Købt: 2020"
+      }
+    ]
+  },
+  {
+    "id": 1700000000009,
+    "navn": "Burlotto G. B. Com – Barolo",
+    "kategori": "Rødvin",
+    "aar": "2016",
+    "styrke": "",
+    "hylde": "",
+    "antal": 1,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Købt: 2021"
+      }
+    ]
+  },
+  {
+    "id": 1700000000010,
+    "navn": "Burlotto G.B. Com x – Langhe Nebbiolo",
+    "kategori": "Rødvin",
+    "aar": "2018",
+    "styrke": "",
+    "hylde": "2",
+    "antal": 2,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Købt: 2020"
+      }
+    ]
+  },
+  {
+    "id": 1700000000011,
+    "navn": "Burlotto G.B. Com x – Barolo Acclivi",
+    "kategori": "Rødvin",
+    "aar": "2015",
+    "styrke": "",
+    "hylde": "2",
+    "antal": 3,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Købt: 2020"
+      }
+    ]
+  },
+  {
+    "id": 1700000000012,
+    "navn": "Burlotto x – Langhe Nebbiolo",
+    "kategori": "Rødvin",
+    "aar": "2019",
+    "styrke": "",
+    "hylde": "2",
+    "antal": 4,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Købt: 2020"
+      }
+    ]
+  },
+  {
+    "id": 1700000000013,
+    "navn": "Burlotto – Langhe Nebbiolo",
+    "kategori": "Rødvin",
+    "aar": "2018",
+    "styrke": "",
+    "hylde": "",
+    "antal": 2,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Købt: 2020"
+      }
+    ]
+  },
+  {
+    "id": 1700000000014,
+    "navn": "Canonica – Barolo",
+    "kategori": "Rødvin",
+    "aar": "2019",
+    "styrke": "",
+    "hylde": "Ninas kælder",
+    "antal": 6,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": []
+  },
+  {
+    "id": 1700000000015,
+    "navn": "Canonica – Barolo Grinzane",
+    "kategori": "Rødvin",
+    "aar": "2019",
+    "styrke": "",
+    "hylde": "Ninas kælder",
+    "antal": 3,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": []
+  },
+  {
+    "id": 1700000000016,
+    "navn": "Canonica – Langhe Nebbiolo",
+    "kategori": "Rødvin",
+    "aar": "2021",
+    "styrke": "",
+    "hylde": "Ninas kælder",
+    "antal": 3,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": []
+  },
+  {
+    "id": 1700000000017,
+    "navn": "Canonica – Barolo",
+    "kategori": "Rødvin",
+    "aar": "2020",
+    "styrke": "",
+    "hylde": "Ninas kælder",
+    "antal": 6,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": []
+  },
+  {
+    "id": 1700000000018,
+    "navn": "Canonica – Barolo Grinzane",
+    "kategori": "Rødvin",
+    "aar": "2020",
+    "styrke": "",
+    "hylde": "Ninas kælder",
+    "antal": 3,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": []
+  },
+  {
+    "id": 1700000000019,
+    "navn": "Canonica – Langhe Nebbiolo",
+    "kategori": "Rødvin",
+    "aar": "2022",
+    "styrke": "",
+    "hylde": "Ninas kælder",
+    "antal": 3,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": []
+  },
+  {
+    "id": 1700000000020,
+    "navn": "Canonica x – Barolo Grinzane",
+    "kategori": "Rødvin",
+    "aar": "2016",
+    "styrke": "",
+    "hylde": "1",
+    "antal": 3,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Købt: 2020"
+      }
+    ]
+  },
+  {
+    "id": 1700000000021,
+    "navn": "Canonica x – Barolo Paiagallo",
+    "kategori": "Rødvin",
+    "aar": "2017",
+    "styrke": "",
+    "hylde": "1",
+    "antal": 3,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Købt: 2021"
+      }
+    ]
+  },
+  {
+    "id": 1700000000022,
+    "navn": "Canonica x – Barolo Grinzane",
+    "kategori": "Rødvin",
+    "aar": "2017",
+    "styrke": "",
+    "hylde": "1",
+    "antal": 2,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Købt: 2021"
+      }
+    ]
+  },
+  {
+    "id": 1700000000023,
+    "navn": "Canonica x – Langhe Nebbiolo",
+    "kategori": "Rødvin",
+    "aar": "2019",
+    "styrke": "",
+    "hylde": "1",
+    "antal": 4,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Købt: 2021"
+      }
+    ]
+  },
+  {
+    "id": 1700000000024,
+    "navn": "Canonica x – Barolo Paiagallo",
+    "kategori": "Rødvin",
+    "aar": "2015",
+    "styrke": "",
+    "hylde": "1",
+    "antal": 6,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Historik: Wow 25/1 2025"
+      },
+      {
+        "dato": "",
+        "tekst": "Købt: 2019"
+      }
+    ]
+  },
+  {
+    "id": 1700000000025,
+    "navn": "Canonica x – Barolo Paiagallo",
+    "kategori": "Rødvin",
+    "aar": "2016",
+    "styrke": "",
+    "hylde": "1",
+    "antal": 6,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Købt: 2020"
+      }
+    ]
+  },
+  {
+    "id": 1700000000026,
+    "navn": "Canonica x – Langhe Nebbiolo",
+    "kategori": "Rødvin",
+    "aar": "2018",
+    "styrke": "",
+    "hylde": "1",
+    "antal": 1,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Købt: 2020"
+      }
+    ]
+  },
+  {
+    "id": 1700000000027,
+    "navn": "Canonica x – Barolo Paiagallo",
+    "kategori": "Rødvin",
+    "aar": "2014",
+    "styrke": "",
+    "hylde": "1",
+    "antal": 3,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Historik: Drak 3 i april 2021. Mums."
+      },
+      {
+        "dato": "",
+        "tekst": "Købt: 2018"
+      }
+    ]
+  },
+  {
+    "id": 1700000000028,
+    "navn": "Canonica x – Barolo Paiagallo",
+    "kategori": "Rødvin",
+    "aar": "2013",
+    "styrke": "",
+    "hylde": "1",
+    "antal": 2,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": []
+  },
+  {
+    "id": 1700000000029,
+    "navn": "Canonica x – Barolo Paiagallo",
+    "kategori": "Rødvin",
+    "aar": "2018",
+    "styrke": "",
+    "hylde": "1",
+    "antal": 6,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": []
+  },
+  {
+    "id": 1700000000030,
+    "navn": "Canonica x – Barolo Grinzane",
+    "kategori": "Rødvin",
+    "aar": "2018",
+    "styrke": "",
+    "hylde": "1",
+    "antal": 3,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": []
+  },
+  {
+    "id": 1700000000031,
+    "navn": "Canonica x – Langhe Nebbiolo",
+    "kategori": "Rødvin",
+    "aar": "2020",
+    "styrke": "",
+    "hylde": "1",
+    "antal": 3,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": []
+  },
+  {
+    "id": 1700000000032,
+    "navn": "Cappellano x – Barolo",
+    "kategori": "Rødvin",
+    "aar": "2015",
+    "styrke": "",
+    "hylde": "1",
+    "antal": 2,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Købt: 2021"
+      }
+    ]
+  },
+  {
+    "id": 1700000000033,
+    "navn": "Casali del Barone – Barolo",
+    "kategori": "Rødvin",
+    "aar": "2013",
+    "styrke": "",
+    "hylde": "",
+    "antal": 6,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Købt: 2019"
+      }
+    ]
+  },
+  {
+    "id": 1700000000034,
+    "navn": "Cascina Roccalini – Langhe Nebbiolo",
+    "kategori": "Rødvin",
+    "aar": "2019",
+    "styrke": "",
+    "hylde": "5",
+    "antal": 0,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Historik: 12 feb. Mums. Mama elsker"
+      },
+      {
+        "dato": "",
+        "tekst": "Købt: 2020"
+      }
+    ]
+  },
+  {
+    "id": 1700000000035,
+    "navn": "Cascina Roccalini x – Barbaresco",
+    "kategori": "Rødvin",
+    "aar": "2016",
+    "styrke": "",
+    "hylde": "1på hylde 7",
+    "antal": 1,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Historik: Fantastisk!!! August 2026"
+      },
+      {
+        "dato": "",
+        "tekst": "Købt: 2020"
+      }
+    ]
+  },
+  {
+    "id": 1700000000036,
+    "navn": "Cogno Elvio x – Barolo Cascina Nuova",
+    "kategori": "Rødvin",
+    "aar": "2013",
+    "styrke": "",
+    "hylde": "2",
+    "antal": 1,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Drikkevindue: 3/5 2024   Prop?  Marts2026: ok"
+      },
+      {
+        "dato": "",
+        "tekst": "Købt: 2019"
+      }
+    ]
+  },
+  {
+    "id": 1700000000037,
+    "navn": "Cogno Elvio x – Barolo Ravera",
+    "kategori": "Rødvin",
+    "aar": "2016",
+    "styrke": "",
+    "hylde": "3",
+    "antal": 1,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Købt: 2021"
+      }
+    ]
+  },
+  {
+    "id": 1700000000038,
+    "navn": "Cogno Elvio x – Barolo Cascina Nuova",
+    "kategori": "Rødvin",
+    "aar": "2016",
+    "styrke": "",
+    "hylde": "2",
+    "antal": 5,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Købt: 2021"
+      }
+    ]
+  },
+  {
+    "id": 1700000000039,
+    "navn": "Costanti x – Brunello",
+    "kategori": "Rødvin",
+    "aar": "2016",
+    "styrke": "",
+    "hylde": "2",
+    "antal": 8,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Købt: 2021"
+      }
+    ]
+  },
+  {
+    "id": 1700000000040,
+    "navn": "Costanti x – Brunello Riserva",
+    "kategori": "Rødvin",
+    "aar": "2015",
+    "styrke": "",
+    "hylde": "2",
+    "antal": 1,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Historik: Købt hos Costanti"
+      },
+      {
+        "dato": "",
+        "tekst": "Købt: 2021"
+      }
+    ]
+  },
+  {
+    "id": 1700000000041,
+    "navn": "Fabio Gea - Cul Otte x – Nebbiolo",
+    "kategori": "Rødvin",
+    "aar": "2016",
+    "styrke": "",
+    "hylde": "1",
+    "antal": 1,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Drikkevindue: Marts2026: god"
+      },
+      {
+        "dato": "",
+        "tekst": "Købt: 2020"
+      }
+    ]
+  },
+  {
+    "id": 1700000000042,
+    "navn": "Fanti – Brunello",
+    "kategori": "Rødvin",
+    "aar": "2019",
+    "styrke": "",
+    "hylde": "Ninas kælder",
+    "antal": 5,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Købt: 2024"
+      }
+    ]
+  },
+  {
+    "id": 1700000000043,
+    "navn": "Francesco Rinaldi  x – Barolo Canubi",
+    "kategori": "Rødvin",
+    "aar": "2016",
+    "styrke": "",
+    "hylde": "3",
+    "antal": 3,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Købt: 2020-2021"
+      }
+    ]
+  },
+  {
+    "id": 1700000000044,
+    "navn": "Francesco Rinaldi – Barolo Cannubi",
+    "kategori": "Rødvin",
+    "aar": "2013",
+    "styrke": "",
+    "hylde": "",
+    "antal": 0,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Historik: 10 Marts 2024. Fantastisk"
+      },
+      {
+        "dato": "",
+        "tekst": "Købt: 2021"
+      }
+    ]
+  },
+  {
+    "id": 1700000000045,
+    "navn": "Francesco Rinaldi x – Barolo Cannubi",
+    "kategori": "Rødvin",
+    "aar": "2017",
+    "styrke": "",
+    "hylde": "3",
+    "antal": 2,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Købt: 2021"
+      }
+    ]
+  },
+  {
+    "id": 1700000000046,
+    "navn": "Francesco Rinaldi x – Langhe Nebbiolo",
+    "kategori": "Rødvin",
+    "aar": "2018",
+    "styrke": "",
+    "hylde": "3",
+    "antal": 2,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Historik: 13 feb 2021. Fantastisk. Mama like  20 feb 2021. 2. April. Mmm.    17 juni 2023. Lækker!!"
+      },
+      {
+        "dato": "",
+        "tekst": "Købt: 2020"
+      }
+    ]
+  },
+  {
+    "id": 1700000000047,
+    "navn": "Francesco Rinaldi x – Barolo Brunate",
+    "kategori": "Rødvin",
+    "aar": "2016",
+    "styrke": "",
+    "hylde": "3",
+    "antal": 2,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Købt: 2020"
+      }
+    ]
+  },
+  {
+    "id": 1700000000048,
+    "navn": "Fratelli Alessandria x – Barolo Gramolere",
+    "kategori": "Rødvin",
+    "aar": "2016",
+    "styrke": "",
+    "hylde": "3",
+    "antal": 2,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Købt: 2021"
+      }
+    ]
+  },
+  {
+    "id": 1700000000049,
+    "navn": "Fratelli Alessandria x – Barolo",
+    "kategori": "Rødvin",
+    "aar": "2016",
+    "styrke": "",
+    "hylde": "3",
+    "antal": 3,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Købt: 2021"
+      }
+    ]
+  },
+  {
+    "id": 1700000000050,
+    "navn": "Giacomo Fenocchio x – Barolo Cannubi",
+    "kategori": "Rødvin",
+    "aar": "2016",
+    "styrke": "",
+    "hylde": "1",
+    "antal": 1,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Købt: 2020"
+      }
+    ]
+  },
+  {
+    "id": 1700000000051,
+    "navn": "Giuseppe Mascarello – Langhe Nebbiolo Vdp",
+    "kategori": "Rødvin",
+    "aar": "2017",
+    "styrke": "",
+    "hylde": "",
+    "antal": 0,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Historik: Juni 2021. Lækker"
+      },
+      {
+        "dato": "",
+        "tekst": "Købt: 2021"
+      }
+    ]
+  },
+  {
+    "id": 1700000000052,
+    "navn": "Giuseppe Mascarello x – Langhe Nebbiolo",
+    "kategori": "Rødvin",
+    "aar": "2018",
+    "styrke": "",
+    "hylde": "1",
+    "antal": 1,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Historik: Drak 27 Jan 2021 - mums. 19 feb 2021 5. Marts. Jordbær! 19 marts!  Sep2023: lys. Lækker. Tynd."
+      },
+      {
+        "dato": "",
+        "tekst": "Købt: 2020"
+      }
+    ]
+  },
+  {
+    "id": 1700000000053,
+    "navn": "Giuseppe Rinaldi x – Langhe Nebbiolo",
+    "kategori": "Rødvin",
+    "aar": "2019",
+    "styrke": "",
+    "hylde": "5",
+    "antal": 5,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Købt: 2021"
+      }
+    ]
+  },
+  {
+    "id": 1700000000054,
+    "navn": "Giuseppe Rinaldi x – Dolcetto d’Alba",
+    "kategori": "Rødvin",
+    "aar": "2019",
+    "styrke": "",
+    "hylde": "5",
+    "antal": 1,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Købt: 2021"
+      }
+    ]
+  },
+  {
+    "id": 1700000000055,
+    "navn": "Giuseppe Rinaldi x – Barolo Tre Tine",
+    "kategori": "Rødvin",
+    "aar": "2017",
+    "styrke": "",
+    "hylde": "5",
+    "antal": 2,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Købt: 2021"
+      }
+    ]
+  },
+  {
+    "id": 1700000000056,
+    "navn": "Giuseppe Rinaldi x – Langhe Nebbiolo",
+    "kategori": "Rødvin",
+    "aar": "2017",
+    "styrke": "",
+    "hylde": "5",
+    "antal": 2,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Købt: 2021"
+      }
+    ]
+  },
+  {
+    "id": 1700000000057,
+    "navn": "Giuseppe Rinaldi x – Langhe Nebbiolo",
+    "kategori": "Rødvin",
+    "aar": "2018",
+    "styrke": "",
+    "hylde": "5",
+    "antal": 1,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Købt: 2020"
+      }
+    ]
+  },
+  {
+    "id": 1700000000058,
+    "navn": "Giuseppe Rinaldi x – Barolo Brunate",
+    "kategori": "Rødvin",
+    "aar": "2016",
+    "styrke": "",
+    "hylde": "5",
+    "antal": 1,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Købt: 2020"
+      }
+    ]
+  },
+  {
+    "id": 1700000000059,
+    "navn": "Giuseppe Rinaldi – Langhe Nebbiolo",
+    "kategori": "Rødvin",
+    "aar": "2017",
+    "styrke": "",
+    "hylde": "",
+    "antal": 2,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Købt: 2021"
+      }
+    ]
+  },
+  {
+    "id": 1700000000060,
+    "navn": "Giuseppe Rinaldi x – Barolo Brunate",
+    "kategori": "Rødvin",
+    "aar": "2017",
+    "styrke": "",
+    "hylde": "5",
+    "antal": 2,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Købt: 2021"
+      }
+    ]
+  },
+  {
+    "id": 1700000000061,
+    "navn": "Guido Porro - V.P. – Barolo V Lazzariasco",
+    "kategori": "Rødvin",
+    "aar": "2013",
+    "styrke": "",
+    "hylde": "",
+    "antal": 0,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Historik: Fantastisk dec 2022"
+      },
+      {
+        "dato": "",
+        "tekst": "Købt: 2019"
+      }
+    ]
+  },
+  {
+    "id": 1700000000062,
+    "navn": "Guido Porro - V.P. Caterina – Barbera d’Alba",
+    "kategori": "Rødvin",
+    "aar": "2015",
+    "styrke": "",
+    "hylde": "",
+    "antal": 0,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Købt: 2019"
+      }
+    ]
+  },
+  {
+    "id": 1700000000063,
+    "navn": "Guido Porro - V.P. Caterina x – Barolo V.  Lazzariasco",
+    "kategori": "Rødvin",
+    "aar": "2016",
+    "styrke": "",
+    "hylde": "4",
+    "antal": 2,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Købt: 2020"
+      }
+    ]
+  },
+  {
+    "id": 1700000000064,
+    "navn": "Guido Porro x – Barolo Santa Caterina",
+    "kategori": "Rødvin",
+    "aar": "2016",
+    "styrke": "",
+    "hylde": "4",
+    "antal": 1,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Købt: 2020"
+      }
+    ]
+  },
+  {
+    "id": 1700000000065,
+    "navn": "Guido Porro x – Langhe Nebbiolo Camilú",
+    "kategori": "Rødvin",
+    "aar": "2019",
+    "styrke": "",
+    "hylde": "4",
+    "antal": 1,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Historik: 21 okt 2021. Mmmm"
+      },
+      {
+        "dato": "",
+        "tekst": "Købt: 2021"
+      }
+    ]
+  },
+  {
+    "id": 1700000000066,
+    "navn": "Guido Porro x – Barolo Caterina",
+    "kategori": "Rødvin",
+    "aar": "2017",
+    "styrke": "",
+    "hylde": "4",
+    "antal": 5,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Købt: 2021"
+      }
+    ]
+  },
+  {
+    "id": 1700000000067,
+    "navn": "Guido Porro x – Barolo Gianetto",
+    "kategori": "Rødvin",
+    "aar": "2017",
+    "styrke": "",
+    "hylde": "4",
+    "antal": 4,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Købt: 2021"
+      }
+    ]
+  },
+  {
+    "id": 1700000000068,
+    "navn": "Guido Porro – Langhe Nebbiolo Camilú",
+    "kategori": "Rødvin",
+    "aar": "2019",
+    "styrke": "",
+    "hylde": "6",
+    "antal": 0,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": []
+  },
+  {
+    "id": 1700000000069,
+    "navn": "Guidorivella x – Langhe Nebbiolo",
+    "kategori": "Rødvin",
+    "aar": "2016",
+    "styrke": "",
+    "hylde": "2",
+    "antal": 1,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": []
+  },
+  {
+    "id": 1700000000070,
+    "navn": "Il Marroneto x – Brunello",
+    "kategori": "Rødvin",
+    "aar": "2016",
+    "styrke": "",
+    "hylde": "4",
+    "antal": 5,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Historik: Juni 2021. Fantastisk."
+      },
+      {
+        "dato": "",
+        "tekst": "Købt: 2021"
+      }
+    ]
+  },
+  {
+    "id": 1700000000071,
+    "navn": "Il Marroneto x – Brunello",
+    "kategori": "Rødvin",
+    "aar": "2015",
+    "styrke": "",
+    "hylde": "4",
+    "antal": 1,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Købt: 2021"
+      }
+    ]
+  },
+  {
+    "id": 1700000000072,
+    "navn": "Le Potazzine x – Brunello",
+    "kategori": "Rødvin",
+    "aar": "2016",
+    "styrke": "",
+    "hylde": "3",
+    "antal": 1,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Købt: 2021"
+      }
+    ]
+  },
+  {
+    "id": 1700000000073,
+    "navn": "Lisini x – Brunello",
+    "kategori": "Rødvin",
+    "aar": "2016",
+    "styrke": "",
+    "hylde": "2",
+    "antal": 2,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Købt: 2021"
+      }
+    ]
+  },
+  {
+    "id": 1700000000074,
+    "navn": "Marcarini – Barolo Brunate",
+    "kategori": "Rødvin",
+    "aar": "2013",
+    "styrke": "",
+    "hylde": "",
+    "antal": 6,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Købt: 2019"
+      }
+    ]
+  },
+  {
+    "id": 1700000000075,
+    "navn": "Marcarini – Barolo La Ferra",
+    "kategori": "Rødvin",
+    "aar": "2013",
+    "styrke": "",
+    "hylde": "",
+    "antal": 5,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Købt: 2019"
+      }
+    ]
+  },
+  {
+    "id": 1700000000076,
+    "navn": "Marengo x – Barbera D’Alba - Vigna Pugnane",
+    "kategori": "Rødvin",
+    "aar": "2016",
+    "styrke": "",
+    "hylde": "5",
+    "antal": 1,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": []
+  },
+  {
+    "id": 1700000000077,
+    "navn": "Marengo x – Barolo Brunate",
+    "kategori": "Rødvin",
+    "aar": "2017",
+    "styrke": "",
+    "hylde": "5",
+    "antal": 1,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Købt: 2021"
+      }
+    ]
+  },
+  {
+    "id": 1700000000078,
+    "navn": "Marengo x – Barolo Bricco Delle Viole",
+    "kategori": "Rødvin",
+    "aar": "2016",
+    "styrke": "",
+    "hylde": "5",
+    "antal": 2,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Købt: 2021"
+      }
+    ]
+  },
+  {
+    "id": 1700000000079,
+    "navn": "Marengo",
+    "kategori": "Rødvin",
+    "aar": "2013",
+    "styrke": "",
+    "hylde": "",
+    "antal": 0,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Købt: 2019"
+      }
+    ]
+  },
+  {
+    "id": 1700000000080,
+    "navn": "Marengo x – Barolo",
+    "kategori": "Rødvin",
+    "aar": "2015",
+    "styrke": "",
+    "hylde": "5",
+    "antal": 3,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Historik: Fantastisk.  23 juni 2023.   Nina loves. Peber."
+      },
+      {
+        "dato": "",
+        "tekst": "Købt: 2019"
+      }
+    ]
+  },
+  {
+    "id": 1700000000081,
+    "navn": "Marengo x – Barolo Brunate",
+    "kategori": "Rødvin",
+    "aar": "2016",
+    "styrke": "",
+    "hylde": "5",
+    "antal": 3,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Købt: 2020"
+      }
+    ]
+  },
+  {
+    "id": 1700000000082,
+    "navn": "Marengo x – Barolo Bricco delle Viole",
+    "kategori": "Rødvin",
+    "aar": "2013",
+    "styrke": "",
+    "hylde": "5",
+    "antal": 1,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Historik: Jul 2024. Lækker"
+      },
+      {
+        "dato": "",
+        "tekst": "Købt: 2020"
+      }
+    ]
+  },
+  {
+    "id": 1700000000083,
+    "navn": "Marengo x – Barolo",
+    "kategori": "Rødvin",
+    "aar": "2016",
+    "styrke": "",
+    "hylde": "5",
+    "antal": 3,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Købt: 2020"
+      }
+    ]
+  },
+  {
+    "id": 1700000000084,
+    "navn": "Marengo – Nebbiolo d’Alba Valmaggiore",
+    "kategori": "Rødvin",
+    "aar": "2018",
+    "styrke": "",
+    "hylde": "",
+    "antal": 0,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Historik: 19 juni 2023. Okt 2023 Lækker. Let. Fruity."
+      },
+      {
+        "dato": "",
+        "tekst": "Købt: 2021"
+      }
+    ]
+  },
+  {
+    "id": 1700000000085,
+    "navn": "Marengo – Nebbiolo D’Alba",
+    "kategori": "Rødvin",
+    "aar": "2016",
+    "styrke": "",
+    "hylde": "",
+    "antal": 0,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Historik:    Drak 30 og 31 dec 2020. Mama elsker.   22 dec 2023. Mums"
+      },
+      {
+        "dato": "",
+        "tekst": "Købt: 2019"
+      }
+    ]
+  },
+  {
+    "id": 1700000000086,
+    "navn": "Massolino x – Barolo Parafada",
+    "kategori": "Rødvin",
+    "aar": "2017",
+    "styrke": "",
+    "hylde": "2",
+    "antal": 2,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Købt: 2021"
+      }
+    ]
+  },
+  {
+    "id": 1700000000087,
+    "navn": "Nebbio",
+    "kategori": "Rødvin",
+    "aar": "",
+    "styrke": "",
+    "hylde": "Hjemme",
+    "antal": 6,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Købt: 2024"
+      }
+    ]
+  },
+  {
+    "id": 1700000000088,
+    "navn": "Palladino x – Barolo Parafada",
+    "kategori": "Rødvin",
+    "aar": "2016",
+    "styrke": "",
+    "hylde": "4",
+    "antal": 3,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Købt: 2021"
+      }
+    ]
+  },
+  {
+    "id": 1700000000089,
+    "navn": "Piero Busso x – Barbaresco San Stunet",
+    "kategori": "Rødvin",
+    "aar": "2013",
+    "styrke": "",
+    "hylde": "1",
+    "antal": 1,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Historik: 13 marts 2021 - lækker. Sol no like"
+      },
+      {
+        "dato": "",
+        "tekst": "Købt: 2021"
+      }
+    ]
+  },
+  {
+    "id": 1700000000090,
+    "navn": "Podere Ruggeri Corsini – Langhe Nebbiolo",
+    "kategori": "Rødvin",
+    "aar": "2016",
+    "styrke": "",
+    "hylde": "",
+    "antal": 0,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Købt: 2019"
+      }
+    ]
+  },
+  {
+    "id": 1700000000091,
+    "navn": "Podere Ruggeri Corsini – Langhe Nebbiolo DOC",
+    "kategori": "Rødvin",
+    "aar": "2018",
+    "styrke": "",
+    "hylde": "",
+    "antal": 1,
+    "pris": "110",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Købt: 2020"
+      }
+    ]
+  },
+  {
+    "id": 1700000000092,
+    "navn": "Poderi Colla – Barolo Bussia Dardi Le Rose",
+    "kategori": "Rødvin",
+    "aar": "2016",
+    "styrke": "",
+    "hylde": "",
+    "antal": 4,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Købt: 2021"
+      }
+    ]
+  },
+  {
+    "id": 1700000000093,
+    "navn": "Prandi x – Langhe Nebbiolo",
+    "kategori": "Rødvin",
+    "aar": "2021",
+    "styrke": "",
+    "hylde": "1",
+    "antal": 1,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Købt: 2024"
+      }
+    ]
+  },
+  {
+    "id": 1700000000094,
+    "navn": "Renato Corino x – Barolo La Morra",
+    "kategori": "Rødvin",
+    "aar": "2016",
+    "styrke": "",
+    "hylde": "2",
+    "antal": 2,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Historik: 28 Okt 2023: fantastisk"
+      },
+      {
+        "dato": "",
+        "tekst": "Købt: 2020"
+      }
+    ]
+  },
+  {
+    "id": 1700000000095,
+    "navn": "Rivella Serafino x – Langhe Nebbiolo",
+    "kategori": "Rødvin",
+    "aar": "2020",
+    "styrke": "",
+    "hylde": "2",
+    "antal": 1,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Købt: 2021"
+      }
+    ]
+  },
+  {
+    "id": 1700000000096,
+    "navn": "Rivello Serafino Montestefano x – Barbaresco",
+    "kategori": "Rødvin",
+    "aar": "2012",
+    "styrke": "",
+    "hylde": "2",
+    "antal": 1,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Historik: 18 sep. Mums. Mama elsker   Juleaften 2022. Marts2026: portvin. Ikke godt."
+      },
+      {
+        "dato": "",
+        "tekst": "Købt: 2019"
+      }
+    ]
+  },
+  {
+    "id": 1700000000097,
+    "navn": "Serraglio x – Rosso di Montepulciano",
+    "kategori": "Rødvin",
+    "aar": "",
+    "styrke": "",
+    "hylde": "3",
+    "antal": 1,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Købt: 2018"
+      }
+    ]
+  },
+  {
+    "id": 1700000000098,
+    "navn": "Serraglio x – Vino Nobile di Montepulciano",
+    "kategori": "Rødvin",
+    "aar": "",
+    "styrke": "",
+    "hylde": "3",
+    "antal": 1,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Købt: 2018"
+      }
+    ]
+  },
+  {
+    "id": 1700000000099,
+    "navn": "Vietti x – Langhe Nebbiolo Perbacco",
+    "kategori": "Rødvin",
+    "aar": "2020",
+    "styrke": "",
+    "hylde": "3",
+    "antal": 2,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Købt: 2024"
+      }
+    ]
+  },
+  {
+    "id": 1700000000100,
+    "navn": "Vietti x – Barolo Castiglione",
+    "kategori": "Rødvin",
+    "aar": "2016",
+    "styrke": "",
+    "hylde": "3",
+    "antal": 2,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Købt: 2020"
+      }
+    ]
+  },
+  {
+    "id": 1700000000101,
+    "navn": "Volapyk x",
+    "kategori": "Rødvin",
+    "aar": "",
+    "styrke": "",
+    "hylde": "1",
+    "antal": 1,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": []
+  },
+  {
+    "id": 1700000000102,
+    "navn": "Malbec Alta",
+    "kategori": "Rødvin",
+    "aar": "2004",
+    "styrke": "",
+    "hylde": "2",
+    "antal": 1,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": []
+  },
+  {
+    "id": 1700000000103,
+    "navn": "Meritage",
+    "kategori": "Rødvin",
+    "aar": "2004",
+    "styrke": "",
+    "hylde": "",
+    "antal": 1,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Købt: 2004"
+      }
+    ]
+  },
+  {
+    "id": 1700000000104,
+    "navn": "Cabernet Cabernet",
+    "kategori": "Rødvin",
+    "aar": "2003",
+    "styrke": "",
+    "hylde": "",
+    "antal": 1,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": []
+  },
+  {
+    "id": 1700000000105,
+    "navn": "Malbec",
+    "kategori": "Rødvin",
+    "aar": "2013",
+    "styrke": "",
+    "hylde": "",
+    "antal": 4,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Købt: 2019"
+      }
+    ]
+  },
+  {
+    "id": 1700000000106,
+    "navn": "Cabernet Sauvignon",
+    "kategori": "Rødvin",
+    "aar": "2017",
+    "styrke": "",
+    "hylde": "",
+    "antal": 2,
+    "pris": "100",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Købt: 2020"
+      }
+    ]
+  },
+  {
+    "id": 1700000000107,
+    "navn": "Langhe Nebbiolo Camilú",
+    "kategori": "Rødvin",
+    "aar": "2016",
+    "styrke": "",
+    "hylde": "",
+    "antal": 1,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Købt: 2019"
+      }
+    ]
+  },
+  {
+    "id": 1700000000108,
+    "navn": "Gran Malbec",
+    "kategori": "Rødvin",
+    "aar": "2015",
+    "styrke": "",
+    "hylde": "",
+    "antal": 6,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Købt: 2019"
+      }
+    ]
+  },
+  {
+    "id": 1700000000109,
+    "navn": "Gran Cabernet Franc",
+    "kategori": "Rødvin",
+    "aar": "2015",
+    "styrke": "",
+    "hylde": "",
+    "antal": 3,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Købt: 2019"
+      }
+    ]
+  },
+  {
+    "id": 1700000000110,
+    "navn": "Pinot Noir",
+    "kategori": "Rødvin",
+    "aar": "2010",
+    "styrke": "",
+    "hylde": "",
+    "antal": 3,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Købt: 2019"
+      }
+    ]
+  },
+  {
+    "id": 1700000000111,
+    "navn": "E. Molino – Barolo Bricco Rocca",
+    "kategori": "Rødvin",
+    "aar": "2022",
+    "styrke": "",
+    "hylde": "",
+    "antal": 2,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": []
+  },
+  {
+    "id": 1700000000112,
+    "navn": "Marengo MAGNUM – Barbera d’ Alba",
+    "kategori": "Rødvin",
+    "aar": "2024",
+    "styrke": "",
+    "hylde": "",
+    "antal": 1,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": []
+  },
+  {
+    "id": 1700000000113,
+    "navn": "Auxey Duresses Blanc - Les Crais Cossard – Hvid Bourgogne",
+    "kategori": "Hvidvin",
+    "aar": "2019",
+    "styrke": "",
+    "hylde": "",
+    "antal": 6,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Historik: Æbleeddike. Ikke god. Juli 2023"
+      },
+      {
+        "dato": "",
+        "tekst": "Købt: 2021"
+      }
+    ]
+  },
+  {
+    "id": 1700000000114,
+    "navn": "Beaune Blanc - Les Bressandes Cossard – Hvid Bourgogne",
+    "kategori": "Hvidvin",
+    "aar": "2019",
+    "styrke": "",
+    "hylde": "",
+    "antal": 3,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Købt: 2021"
+      }
+    ]
+  },
+  {
+    "id": 1700000000115,
+    "navn": "Beaune Blanc Cossard x – Hvid Bourgogne",
+    "kategori": "Hvidvin",
+    "aar": "2018",
+    "styrke": "",
+    "hylde": "6",
+    "antal": 3,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Købt: 2021"
+      }
+    ]
+  },
+  {
+    "id": 1700000000116,
+    "navn": "Chablis 1. Cru Montee de Tonnere, Louis Michel – Hvid Bourgogne",
+    "kategori": "Hvidvin",
+    "aar": "2017",
+    "styrke": "",
+    "hylde": "",
+    "antal": 13,
+    "pris": "300",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Historik: 30 marts 21.fantastisk. Mama loves"
+      },
+      {
+        "dato": "",
+        "tekst": "Købt: 2020"
+      }
+    ]
+  },
+  {
+    "id": 1700000000117,
+    "navn": "Chablis 1. Cru Montee de Tonnere, Louis Michel x – Hvid Bourgogne",
+    "kategori": "Hvidvin",
+    "aar": "2016",
+    "styrke": "",
+    "hylde": "",
+    "antal": 0,
+    "pris": "300",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Historik: April 2026. Fantastisk!!!!!! Måske den bedste hvid nogensinde"
+      },
+      {
+        "dato": "",
+        "tekst": "Købt: 2020"
+      }
+    ]
+  },
+  {
+    "id": 1700000000118,
+    "navn": "Chablis Grenouilles - Louis Michel – Hvid Bourgogne",
+    "kategori": "Hvidvin",
+    "aar": "2017",
+    "styrke": "",
+    "hylde": "",
+    "antal": 5,
+    "pris": "575",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Historik:   Nytår 2021. Fantastisk"
+      },
+      {
+        "dato": "",
+        "tekst": "Købt: 2021"
+      }
+    ]
+  },
+  {
+    "id": 1700000000119,
+    "navn": "Chablis Premier Cru Montee de Tonnerre – Hvid Bourgogne",
+    "kategori": "Hvidvin",
+    "aar": "2019",
+    "styrke": "",
+    "hylde": "Ninas kælder",
+    "antal": 6,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": []
+  },
+  {
+    "id": 1700000000120,
+    "navn": "Chablis Premier Cru Vaulorent – Hvid Bourgogne",
+    "kategori": "Hvidvin",
+    "aar": "2019",
+    "styrke": "",
+    "hylde": "Ninas kælder",
+    "antal": 6,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": []
+  },
+  {
+    "id": 1700000000121,
+    "navn": "Le Petit Tétu Jean-Marie Berrux x",
+    "kategori": "Hvidvin",
+    "aar": "2019",
+    "styrke": "",
+    "hylde": "5 eller 6",
+    "antal": 1,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Købt: 2021"
+      }
+    ]
+  },
+  {
+    "id": 1700000000122,
+    "navn": "Les Champlains - Domain Simon Bize x – Hvid Bourgogne",
+    "kategori": "Hvidvin",
+    "aar": "2018",
+    "styrke": "",
+    "hylde": "",
+    "antal": 1,
+    "pris": "215",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Historik: 2  april. Lækker. 9 okt 2021 fantastisk. Mama loves"
+      },
+      {
+        "dato": "",
+        "tekst": "Købt: 2020"
+      }
+    ]
+  },
+  {
+    "id": 1700000000123,
+    "navn": "Les Champlains - Domain Simon Bize x – Hvid Bourgogne",
+    "kategori": "Hvidvin",
+    "aar": "2017",
+    "styrke": "",
+    "hylde": "",
+    "antal": 1,
+    "pris": "215",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Historik: Drukket juni 2021. Fantastisk!!"
+      },
+      {
+        "dato": "",
+        "tekst": "Købt: 2020"
+      }
+    ]
+  },
+  {
+    "id": 1700000000124,
+    "navn": "Louis Michel x – Chablis",
+    "kategori": "Hvidvin",
+    "aar": "2019",
+    "styrke": "",
+    "hylde": "",
+    "antal": 2,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Købt: 2021"
+      }
+    ]
+  },
+  {
+    "id": 1700000000125,
+    "navn": "Prudhon Chardonnay x – Hvid Bourgogne",
+    "kategori": "Hvidvin",
+    "aar": "2019",
+    "styrke": "",
+    "hylde": "",
+    "antal": 2,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Købt: 2021"
+      }
+    ]
+  },
+  {
+    "id": 1700000000126,
+    "navn": "Puligny 1. cru Chalumaux - Pernot – Hvid Bourgogne",
+    "kategori": "Hvidvin",
+    "aar": "2019",
+    "styrke": "",
+    "hylde": "",
+    "antal": 1,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Købt: 2021"
+      }
+    ]
+  },
+  {
+    "id": 1700000000127,
+    "navn": "Puligny 1. cru Garenne - Pernot – Hvid Bourgogne",
+    "kategori": "Hvidvin",
+    "aar": "2017",
+    "styrke": "",
+    "hylde": "",
+    "antal": 1,
+    "pris": "650",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Købt: 2021"
+      }
+    ]
+  },
+  {
+    "id": 1700000000128,
+    "navn": "Puligny 1. cru Garenne - Pernot – Hvid Bourgogne",
+    "kategori": "Hvidvin",
+    "aar": "2019",
+    "styrke": "",
+    "hylde": "",
+    "antal": 1,
+    "pris": "700",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Købt: 2021"
+      }
+    ]
+  },
+  {
+    "id": 1700000000129,
+    "navn": "Puligny 1. cru Jaquelotte - Pernot – Hvid Bourgogne",
+    "kategori": "Hvidvin",
+    "aar": "2017",
+    "styrke": "",
+    "hylde": "",
+    "antal": 1,
+    "pris": "650",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Købt: 2021"
+      }
+    ]
+  },
+  {
+    "id": 1700000000130,
+    "navn": "Puligny Montrachet - Gramont – Hvid Bourgogne",
+    "kategori": "Hvidvin",
+    "aar": "2019",
+    "styrke": "",
+    "hylde": "",
+    "antal": 8,
+    "pris": "450",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Købt: 2021"
+      }
+    ]
+  },
+  {
+    "id": 1700000000131,
+    "navn": "Puligny Montrachet - Les Houliéres x – Hvid Bourgogne",
+    "kategori": "Hvidvin",
+    "aar": "2019",
+    "styrke": "",
+    "hylde": "",
+    "antal": 2,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Historik: Fantastisk januar 2025"
+      }
+    ]
+  },
+  {
+    "id": 1700000000132,
+    "navn": "Puligny Montrachet - Paul Pernot Et Ses Fils x – Hvid Bourgogne",
+    "kategori": "Hvidvin",
+    "aar": "2018",
+    "styrke": "",
+    "hylde": "",
+    "antal": 1,
+    "pris": "390",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Købt: 2020"
+      }
+    ]
+  },
+  {
+    "id": 1700000000133,
+    "navn": "Saint-Aubin 1. cru Les Murgers des dents de chien x – Hvid Bourgogne",
+    "kategori": "Hvidvin",
+    "aar": "2019",
+    "styrke": "",
+    "hylde": "",
+    "antal": 2,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": []
+  },
+  {
+    "id": 1700000000134,
+    "navn": "Saint-Aubin 1. cru Les Perrieres – Hvid Bourgogne",
+    "kategori": "Hvidvin",
+    "aar": "2019",
+    "styrke": "",
+    "hylde": "Ninas kælder",
+    "antal": 5,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Historik: Jul 2024. Lækker. .  Juli2026 vild!!"
+      }
+    ]
+  },
+  {
+    "id": 1700000000135,
+    "navn": "Saint-Aubin 1. cru Sur Gamay - Henri Prudhon & Fils x – Hvid Bourgogne",
+    "kategori": "Hvidvin",
+    "aar": "2017",
+    "styrke": "",
+    "hylde": "",
+    "antal": 1,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Købt: 2020"
+      }
+    ]
+  },
+  {
+    "id": 1700000000136,
+    "navn": "Savigny-les-Beaune Blanc, Simon Bize x – Hvid Bourgogne",
+    "kategori": "Hvidvin",
+    "aar": "2017",
+    "styrke": "",
+    "hylde": "",
+    "antal": 4,
+    "pris": "375",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Købt: 2020"
+      }
+    ]
+  },
+  {
+    "id": 1700000000137,
+    "navn": "St. Aubin 1. cru - Prudhon – Hvid Bourgogne",
+    "kategori": "Hvidvin",
+    "aar": "2019",
+    "styrke": "",
+    "hylde": "",
+    "antal": 8,
+    "pris": "360",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Købt: 2021"
+      }
+    ]
+  },
+  {
+    "id": 1700000000138,
+    "navn": "St. Aubin 1. cru Perrieres - Prudhon x – Hvid Bourgogne",
+    "kategori": "Hvidvin",
+    "aar": "2019",
+    "styrke": "",
+    "hylde": "",
+    "antal": 2,
+    "pris": "360",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Købt: 2021"
+      }
+    ]
+  },
+  {
+    "id": 1700000000139,
+    "navn": "St. Aubin 1. cru Sur Gamay - Prudhon x – Hvid Bourgogne",
+    "kategori": "Hvidvin",
+    "aar": "2019",
+    "styrke": "",
+    "hylde": "",
+    "antal": 3,
+    "pris": "375",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Købt: 2021"
+      }
+    ]
+  },
+  {
+    "id": 1700000000140,
+    "navn": "St. Aubin Remilly - Prudhon x – Hvid Bourgogne",
+    "kategori": "Hvidvin",
+    "aar": "2019",
+    "styrke": "",
+    "hylde": "",
+    "antal": 4,
+    "pris": "360",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Købt: 2021"
+      }
+    ]
+  },
+  {
+    "id": 1700000000141,
+    "navn": "Stein Riesling - Domaine Rietsch",
+    "kategori": "Hvidvin",
+    "aar": "2017",
+    "styrke": "",
+    "hylde": "",
+    "antal": 3,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": []
+  },
+  {
+    "id": 1700000000142,
+    "navn": "Sterntaucher Jakob Tennstedt x – Riesling Mosel",
+    "kategori": "Hvidvin",
+    "aar": "2018",
+    "styrke": "",
+    "hylde": "",
+    "antal": 1,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Købt: 2021"
+      }
+    ]
+  },
+  {
+    "id": 1700000000143,
+    "navn": "Chablis 1. Cru Montee de Tonnere, Louis Michel x – Hvid Bourgogne",
+    "kategori": "Hvidvin",
+    "aar": "2022",
+    "styrke": "",
+    "hylde": "Hylde 3",
+    "antal": 0,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "O-M-N: God!!"
+      },
+      {
+        "dato": "",
+        "tekst": "Købt: 2026"
+      }
+    ]
+  },
+  {
+    "id": 1700000000144,
+    "navn": "Chablis 1. Cru Montee de Tonnere, Louis Michel x – Hvid Bourgogne",
+    "kategori": "Hvidvin",
+    "aar": "2024",
+    "styrke": "",
+    "hylde": "Hylde 3",
+    "antal": 1,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "O-M-N: God!"
+      },
+      {
+        "dato": "",
+        "tekst": "Købt: 2026"
+      }
+    ]
+  },
+  {
+    "id": 1700000000145,
+    "navn": "Billecart-Salmon – Extra Brut",
+    "kategori": "Champagne",
+    "aar": "2008",
+    "styrke": "",
+    "hylde": "",
+    "antal": 1,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Købt: 2020"
+      }
+    ]
+  },
+  {
+    "id": 1700000000146,
+    "navn": "Charles Heidsieck – Brut",
+    "kategori": "Champagne",
+    "aar": "2008",
+    "styrke": "",
+    "hylde": "",
+    "antal": 1,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Købt: 2020"
+      }
+    ]
+  },
+  {
+    "id": 1700000000147,
+    "navn": "Comtes de Dampierre – Grand Cru Brut",
+    "kategori": "Champagne",
+    "aar": "2008",
+    "styrke": "",
+    "hylde": "",
+    "antal": 0,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Købt: 2020"
+      }
+    ]
+  },
+  {
+    "id": 1700000000148,
+    "navn": "Comtesse De Brissy – Brut Reserve",
+    "kategori": "Champagne",
+    "aar": "",
+    "styrke": "",
+    "hylde": "Skab 1, Hylde 4",
+    "antal": 0,
+    "pris": "250",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Købt: 2020"
+      }
+    ]
+  },
+  {
+    "id": 1700000000149,
+    "navn": "Drappier – Champagne, Brut nature sans ajout de soufre",
+    "kategori": "Champagne",
+    "aar": "-",
+    "styrke": "",
+    "hylde": "Skab 1, Hylde 3",
+    "antal": 0,
+    "pris": "300",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Købt: 2020"
+      }
+    ]
+  },
+  {
+    "id": 1700000000150,
+    "navn": "Drappier – Champagne, brut Nature",
+    "kategori": "Champagne",
+    "aar": "-",
+    "styrke": "",
+    "hylde": "Skab 1, Hylde 3",
+    "antal": 0,
+    "pris": "280",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Købt: 2020"
+      }
+    ]
+  },
+  {
+    "id": 1700000000151,
+    "navn": "Henriot – Rose Brut",
+    "kategori": "Champagne",
+    "aar": "2008",
+    "styrke": "",
+    "hylde": "",
+    "antal": 0,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Købt: 2020"
+      }
+    ]
+  },
+  {
+    "id": 1700000000152,
+    "navn": "Henriot – Brut",
+    "kategori": "Champagne",
+    "aar": "2008",
+    "styrke": "",
+    "hylde": "",
+    "antal": 2,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Købt: 2020"
+      }
+    ]
+  },
+  {
+    "id": 1700000000153,
+    "navn": "Krug – Grande Cuvée Brut 166eme Edition",
+    "kategori": "Champagne",
+    "aar": "NV",
+    "styrke": "",
+    "hylde": "",
+    "antal": 0,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Historik:  Drak nytårsaften. 2020. Fantastisk"
+      },
+      {
+        "dato": "",
+        "tekst": "Købt: 2020"
+      }
+    ]
+  },
+  {
+    "id": 1700000000154,
+    "navn": "Laurent-Perrier – Brut",
+    "kategori": "Champagne",
+    "aar": "2008",
+    "styrke": "",
+    "hylde": "",
+    "antal": 0,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Købt: 2020"
+      }
+    ]
+  },
+  {
+    "id": 1700000000155,
+    "navn": "Louis Roederer",
+    "kategori": "Champagne",
+    "aar": "2008",
+    "styrke": "",
+    "hylde": "",
+    "antal": 1,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Købt: 2020"
+      }
+    ]
+  },
+  {
+    "id": 1700000000156,
+    "navn": "Marguet, Ambonnay – Champagne grand Cru",
+    "kategori": "Champagne",
+    "aar": "2011",
+    "styrke": "",
+    "hylde": "Skab 1, Hylde 3",
+    "antal": 1,
+    "pris": "425",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Købt: 2020"
+      }
+    ]
+  },
+  {
+    "id": 1700000000157,
+    "navn": "Mas de la Basserola – Brut",
+    "kategori": "Champagne",
+    "aar": "",
+    "styrke": "",
+    "hylde": "Skab 2, Hylde 5",
+    "antal": 0,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Købt: 2019"
+      }
+    ]
+  },
+  {
+    "id": 1700000000158,
+    "navn": "Philipponnat – Cuvée 1522 Extra Brut",
+    "kategori": "Champagne",
+    "aar": "2008",
+    "styrke": "",
+    "hylde": "",
+    "antal": 0,
+    "pris": "700",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Købt: 2020"
+      }
+    ]
+  },
+  {
+    "id": 1700000000159,
+    "navn": "Philipponnat – Cuvée 1522 Extra Brut Rosé",
+    "kategori": "Champagne",
+    "aar": "2008",
+    "styrke": "",
+    "hylde": "",
+    "antal": 0,
+    "pris": "900",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Historik: Fantastisk. Sep 2024"
+      },
+      {
+        "dato": "",
+        "tekst": "Købt: 2020"
+      }
+    ]
+  },
+  {
+    "id": 1700000000160,
+    "navn": "Philipponnat – Grand Cru Extra Brut",
+    "kategori": "Champagne",
+    "aar": "2008",
+    "styrke": "",
+    "hylde": "",
+    "antal": 2,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Historik:    Drak juleaften 2020. Mama elsker den."
+      },
+      {
+        "dato": "",
+        "tekst": "Købt: 2020"
+      }
+    ]
+  },
+  {
+    "id": 1700000000161,
+    "navn": "Piper-Heidsieck – Brut",
+    "kategori": "Champagne",
+    "aar": "2008",
+    "styrke": "",
+    "hylde": "",
+    "antal": 0,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Købt: 2020"
+      }
+    ]
+  },
+  {
+    "id": 1700000000162,
+    "navn": "Pol Roger – Blanc de Blancs",
+    "kategori": "Champagne",
+    "aar": "2012",
+    "styrke": "",
+    "hylde": "",
+    "antal": 0,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Historik: 3 Marts 2021. Mums. Minder om Comtesse. Mama elsker"
+      },
+      {
+        "dato": "",
+        "tekst": "Købt: 2020"
+      }
+    ]
+  },
+  {
+    "id": 1700000000163,
+    "navn": "Saint-Vincent",
+    "kategori": "Champagne",
+    "aar": "2008",
+    "styrke": "",
+    "hylde": "",
+    "antal": 1,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Købt: 2020"
+      }
+    ]
+  },
+  {
+    "id": 1700000000164,
+    "navn": "Alfred Gratien – Grand Cru Blanc de Blancs",
+    "kategori": "Champagne",
+    "aar": "2015",
+    "styrke": "",
+    "hylde": "",
+    "antal": 0,
+    "pris": "350 (Bichel)",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Købt: 2020"
+      }
+    ]
+  },
+  {
+    "id": 1700000000165,
+    "navn": "Piper Heidsieck – Brut Vintage",
+    "kategori": "Champagne",
+    "aar": "2012",
+    "styrke": "",
+    "hylde": "",
+    "antal": 0,
+    "pris": "380  (Vin med mere)",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Historik: 13.4.2022  fantastisk!!!!"
+      },
+      {
+        "dato": "",
+        "tekst": "Købt: 2020"
+      }
+    ]
+  },
+  {
+    "id": 1700000000166,
+    "navn": "Taittinger – Prélude Grands Crus",
+    "kategori": "Champagne",
+    "aar": "NV",
+    "styrke": "",
+    "hylde": "",
+    "antal": 0,
+    "pris": "390 (Vin med mere)",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Købt: 2020"
+      }
+    ]
+  },
+  {
+    "id": 1700000000167,
+    "navn": "Pol Roger – Brut Vintage",
+    "kategori": "Champagne",
+    "aar": "2012",
+    "styrke": "",
+    "hylde": "",
+    "antal": 0,
+    "pris": "480",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Købt: 2020"
+      }
+    ]
+  },
+  {
+    "id": 1700000000168,
+    "navn": "Louis Roederer – Brut Vintage",
+    "kategori": "Champagne",
+    "aar": "2012",
+    "styrke": "",
+    "hylde": "",
+    "antal": 0,
+    "pris": "500",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Historik: Mums. Mommi loves"
+      },
+      {
+        "dato": "",
+        "tekst": "Købt: 2020"
+      }
+    ]
+  },
+  {
+    "id": 1700000000169,
+    "navn": "Taittinger – Comtes De Champagne",
+    "kategori": "Champagne",
+    "aar": "2007",
+    "styrke": "",
+    "hylde": "",
+    "antal": 3,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Historik:   Drak februar 2021. Fantastisk. Mama elsker den. Drak 5/2 2021. 14 aug 2021. Mums."
+      },
+      {
+        "dato": "",
+        "tekst": "Købt: 2020"
+      }
+    ]
+  },
+  {
+    "id": 1700000000170,
+    "navn": "Taittinger – Comtes De Champagne",
+    "kategori": "Champagne",
+    "aar": "2008",
+    "styrke": "",
+    "hylde": "",
+    "antal": 2,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Købt: 2021"
+      }
+    ]
+  },
+  {
+    "id": 1700000000171,
+    "navn": "Charles Heidsieck – Brut Reserve (Base 2016)",
+    "kategori": "Champagne",
+    "aar": "2016",
+    "styrke": "",
+    "hylde": "",
+    "antal": 0,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Købt: 2020"
+      }
+    ]
+  },
+  {
+    "id": 1700000000172,
+    "navn": "Taittinger – Prelude Grand Crus",
+    "kategori": "Champagne",
+    "aar": "NV",
+    "styrke": "",
+    "hylde": "",
+    "antal": 0,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Købt: 2020"
+      }
+    ]
+  },
+  {
+    "id": 1700000000173,
+    "navn": "Krug – Grande Cuvée Brut 168 Edition",
+    "kategori": "Champagne",
+    "aar": "",
+    "styrke": "",
+    "hylde": "",
+    "antal": 2,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Købt: 2021"
+      }
+    ]
+  },
+  {
+    "id": 1700000000174,
+    "navn": "Drappier – Drappier brut nature Les Riceys",
+    "kategori": "Champagne",
+    "aar": "NV",
+    "styrke": "",
+    "hylde": "Skab 4 i ninas kælder",
+    "antal": 6,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Købt: 2024"
+      }
+    ]
+  },
+  {
+    "id": 1700000000175,
+    "navn": "Drappier – Drappier brut Nature sans soufre zéro dosage",
+    "kategori": "Champagne",
+    "aar": "NV",
+    "styrke": "",
+    "hylde": "Skab 4 i ninas kælder",
+    "antal": 6,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Købt: 2024"
+      }
+    ]
+  },
+  {
+    "id": 1700000000176,
+    "navn": "Alfred Gratien x – Alfred Gratien Cuvée Paradis",
+    "kategori": "Champagne",
+    "aar": "2015",
+    "styrke": "",
+    "hylde": "Skab 3 ninas kælder - 1 i skab",
+    "antal": 4,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Købt: 2024"
+      }
+    ]
+  },
+  {
+    "id": 1700000000177,
+    "navn": "Piper Heidsieck – Brut nature",
+    "kategori": "Champagne",
+    "aar": "2008",
+    "styrke": "",
+    "hylde": "Skab 3 I ninas kælder",
+    "antal": 3,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Købt: 2024"
+      }
+    ]
+  },
+  {
+    "id": 1700000000178,
+    "navn": "Thomas Perseval x – Chamery 1. cru Grande Cuvée",
+    "kategori": "Champagne",
+    "aar": "2013",
+    "styrke": "",
+    "hylde": "Hylde 7",
+    "antal": 1,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Historik: Jul 2024. Fantastisk. Marts2026. Wow"
+      },
+      {
+        "dato": "",
+        "tekst": "Købt: 2024"
+      }
+    ]
+  },
+  {
+    "id": 1700000000179,
+    "navn": "Les Freres Mignon x – Premier Cru Blanc de Blancs",
+    "kategori": "Champagne",
+    "aar": "",
+    "styrke": "",
+    "hylde": "Hylde 7",
+    "antal": 2,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": []
+  },
+  {
+    "id": 1700000000180,
+    "navn": "Robert Moncuit – Grand Cru. Les Vozemieux",
+    "kategori": "Champagne",
+    "aar": "2013",
+    "styrke": "",
+    "hylde": "Hylde 7",
+    "antal": 1,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": []
+  },
+  {
+    "id": 1700000000181,
+    "navn": "Frederic Savart – Premier Cru. L’ouverture",
+    "kategori": "Champagne",
+    "aar": "",
+    "styrke": "",
+    "hylde": "Hylde 7",
+    "antal": 1,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": []
+  },
+  {
+    "id": 1700000000182,
+    "navn": "Thomas Perseval x – Le Hazat",
+    "kategori": "Champagne",
+    "aar": "2019",
+    "styrke": "",
+    "hylde": "Hylde 7",
+    "antal": 0,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Drikkevindue: Msrts2026 wow"
+      }
+    ]
+  },
+  {
+    "id": 1700000000183,
+    "navn": "Thomas Perseval x – Le Hazat",
+    "kategori": "Champagne",
+    "aar": "2020",
+    "styrke": "",
+    "hylde": "Hylde 7",
+    "antal": 1,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": []
+  },
+  {
+    "id": 1700000000184,
+    "navn": "Thomas Perseval x – Le village",
+    "kategori": "Champagne",
+    "aar": "2019",
+    "styrke": "",
+    "hylde": "Hylde 7",
+    "antal": 1,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": []
+  },
+  {
+    "id": 1700000000185,
+    "navn": "Thomas Perseval x – La masure MAGNUM",
+    "kategori": "Champagne",
+    "aar": "2016",
+    "styrke": "",
+    "hylde": "Hylde 7",
+    "antal": 1,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": []
+  },
+  {
+    "id": 1700000000186,
+    "navn": "Dalva x – Vintage port",
+    "kategori": "Portvin",
+    "aar": "2011",
+    "styrke": "",
+    "hylde": "7",
+    "antal": 2,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Købt: 2019"
+      }
+    ]
+  },
+  {
+    "id": 1700000000187,
+    "navn": "Quinta da Romaneira x – LBV",
+    "kategori": "Portvin",
+    "aar": "2012",
+    "styrke": "",
+    "hylde": "7",
+    "antal": 1,
+    "pris": "190",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Købt: 2020"
+      }
+    ]
+  },
+  {
+    "id": 1700000000188,
+    "navn": "Quinta do Noval x – Vintage port",
+    "kategori": "Portvin",
+    "aar": "2014",
+    "styrke": "",
+    "hylde": "7",
+    "antal": 5,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Købt: 2019-2021"
+      }
+    ]
+  },
+  {
+    "id": 1700000000189,
+    "navn": "Quinta do Retiro Novo (Krohn) x – Vintage port",
+    "kategori": "Portvin",
+    "aar": "2011",
+    "styrke": "",
+    "hylde": "7",
+    "antal": 4,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Købt: 2019 2020"
+      }
+    ]
+  },
+  {
+    "id": 1700000000190,
+    "navn": "Smith Woodhouse x – LBV",
+    "kategori": "Portvin",
+    "aar": "2007",
+    "styrke": "",
+    "hylde": "7",
+    "antal": 1,
+    "pris": "250",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Købt: 2020"
+      }
+    ]
+  },
+  {
+    "id": 1700000000191,
+    "navn": "Smith Woodhouse x – Madalena Vintage port",
+    "kategori": "Portvin",
+    "aar": "2005",
+    "styrke": "",
+    "hylde": "7",
+    "antal": 2,
+    "pris": "250",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Købt: 2020"
+      }
+    ]
+  },
+  {
+    "id": 1700000000192,
+    "navn": "Taylor’s x – Vintage port",
+    "kategori": "Portvin",
+    "aar": "2011",
+    "styrke": "",
+    "hylde": "7",
+    "antal": 3,
+    "pris": "700kr",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Købt: 2020"
+      }
+    ]
+  },
+  {
+    "id": 1700000000193,
+    "navn": "Taylor’s x – Vintage port Tessa Feita",
+    "kategori": "Portvin",
+    "aar": "2001",
+    "styrke": "",
+    "hylde": "7",
+    "antal": 1,
+    "pris": "400",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Købt: 2020"
+      }
+    ]
+  },
+  {
+    "id": 1700000000194,
+    "navn": "Porto Colheita Messias x",
+    "kategori": "Portvin",
+    "aar": "2011",
+    "styrke": "",
+    "hylde": "7",
+    "antal": 2,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": []
+  },
+  {
+    "id": 1700000000195,
+    "navn": "Blanton’s, Single Barrell",
+    "kategori": "Bourbon",
+    "aar": "",
+    "styrke": "46.5",
+    "hylde": "",
+    "antal": 1,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": []
+  },
+  {
+    "id": 1700000000196,
+    "navn": "Blanton’s, Gold Edition",
+    "kategori": "Bourbon",
+    "aar": "",
+    "styrke": "51.5",
+    "hylde": "",
+    "antal": 2,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": []
+  },
+  {
+    "id": 1700000000197,
+    "navn": "Colonel E.H. Taylor, Small Batch",
+    "kategori": "Bourbon",
+    "aar": "",
+    "styrke": "50",
+    "hylde": "",
+    "antal": 3,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": []
+  },
+  {
+    "id": 1700000000198,
+    "navn": "Eagle Rare, Single Barrel",
+    "kategori": "Bourbon",
+    "aar": "10 Year",
+    "styrke": "45",
+    "hylde": "",
+    "antal": 1,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": []
+  },
+  {
+    "id": 1700000000199,
+    "navn": "Elijah Craig",
+    "kategori": "Bourbon",
+    "aar": "12 Years",
+    "styrke": "47",
+    "hylde": "",
+    "antal": 1,
+    "pris": "",
+    "billede": "",
+    "aaben": true,
+    "noter": []
+  },
+  {
+    "id": 1700000000200,
+    "navn": "George T. Stagg",
+    "kategori": "Bourbon",
+    "aar": "",
+    "styrke": "70.7",
+    "hylde": "",
+    "antal": 1,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": []
+  },
+  {
+    "id": 1700000000201,
+    "navn": "Johnnie Walker, Blender’s Batch Rum Cask Finish",
+    "kategori": "Bourbon",
+    "aar": "",
+    "styrke": "40.8",
+    "hylde": "",
+    "antal": 1,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": []
+  },
+  {
+    "id": 1700000000202,
+    "navn": "Johnnie Walker, Blender’s Batch Espresso Roast",
+    "kategori": "Bourbon",
+    "aar": "",
+    "styrke": "43.2",
+    "hylde": "",
+    "antal": 0,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": []
+  },
+  {
+    "id": 1700000000203,
+    "navn": "Kentucky Vintage, Original Sour Mash",
+    "kategori": "Bourbon",
+    "aar": "",
+    "styrke": "45",
+    "hylde": "",
+    "antal": 1,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": []
+  },
+  {
+    "id": 1700000000204,
+    "navn": "Noah’s Mill",
+    "kategori": "Bourbon",
+    "aar": "",
+    "styrke": "57.15",
+    "hylde": "",
+    "antal": 1,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": []
+  },
+  {
+    "id": 1700000000205,
+    "navn": "Old Fitzgerald, Very Special",
+    "kategori": "Bourbon",
+    "aar": "12 Year",
+    "styrke": "45",
+    "hylde": "",
+    "antal": 1,
+    "pris": "",
+    "billede": "",
+    "aaben": true,
+    "noter": []
+  },
+  {
+    "id": 1700000000206,
+    "navn": "Pappy Van Winkle, Family Reserve 20 year",
+    "kategori": "Bourbon",
+    "aar": "",
+    "styrke": "45.2",
+    "hylde": "",
+    "antal": 1,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": []
+  },
+  {
+    "id": 1700000000207,
+    "navn": "ri1",
+    "kategori": "Bourbon",
+    "aar": "",
+    "styrke": "46",
+    "hylde": "",
+    "antal": 1,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": []
+  },
+  {
+    "id": 1700000000208,
+    "navn": "Rittenhouse, Straight Rye Whisky",
+    "kategori": "Bourbon",
+    "aar": "",
+    "styrke": "50",
+    "hylde": "",
+    "antal": 1,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": []
+  },
+  {
+    "id": 1700000000209,
+    "navn": "Stagg Jr.",
+    "kategori": "Bourbon",
+    "aar": "",
+    "styrke": "63.2",
+    "hylde": "",
+    "antal": 1,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": []
+  },
+  {
+    "id": 1700000000210,
+    "navn": "Stagg Jr.",
+    "kategori": "Bourbon",
+    "aar": "",
+    "styrke": "67.2",
+    "hylde": "",
+    "antal": 1,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": []
+  },
+  {
+    "id": 1700000000211,
+    "navn": "W.L. Weller",
+    "kategori": "Bourbon",
+    "aar": "12 Year",
+    "styrke": "45",
+    "hylde": "",
+    "antal": 1,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": []
+  },
+  {
+    "id": 1700000000212,
+    "navn": "Weller, Special Reserve",
+    "kategori": "Bourbon",
+    "aar": "",
+    "styrke": "45",
+    "hylde": "",
+    "antal": 4,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": []
+  },
+  {
+    "id": 1700000000213,
+    "navn": "Willett, Family Estate Bottled Small Batch Rye (Rare Release)",
+    "kategori": "Bourbon",
+    "aar": "3 Years",
+    "styrke": "55.2",
+    "hylde": "",
+    "antal": 1,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": []
+  },
+  {
+    "id": 1700000000214,
+    "navn": "Willett",
+    "kategori": "Bourbon",
+    "aar": "",
+    "styrke": "47",
+    "hylde": "",
+    "antal": 4,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": []
+  },
+  {
+    "id": 1700000000215,
+    "navn": "Woodford Reserve, Double Oaked",
+    "kategori": "Bourbon",
+    "aar": "",
+    "styrke": "43.2",
+    "hylde": "",
+    "antal": 3,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": []
+  },
+  {
+    "id": 1700000000216,
+    "navn": "Woodford Reserve, Distillers Select",
+    "kategori": "Bourbon",
+    "aar": "",
+    "styrke": "45.2",
+    "hylde": "",
+    "antal": 1,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Noter: Batch 590"
+      }
+    ]
+  },
+  {
+    "id": 1700000000217,
+    "navn": "Woodford Reserve, Brandy Cask Finish (Master’s Collection)",
+    "kategori": "Bourbon",
+    "aar": "",
+    "styrke": "45.2",
+    "hylde": "",
+    "antal": 2,
+    "pris": "800",
+    "billede": "",
+    "aaben": false,
+    "noter": []
+  },
+  {
+    "id": 1700000000218,
+    "navn": "Flying Dead Spirit, Milburn 1981 - Flight no. 4 (Juuls)",
+    "kategori": "Whisky",
+    "aar": "2006",
+    "styrke": "46",
+    "hylde": "",
+    "antal": 2,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Land: Highland, Skotland"
+      },
+      {
+        "dato": "",
+        "tekst": "Noter: 803 Bottles"
+      }
+    ]
+  },
+  {
+    "id": 1700000000219,
+    "navn": "Glen Garioch, Single Malt (Bourbon & Sherry Cask)",
+    "kategori": "Whisky",
+    "aar": "12 år",
+    "styrke": "48",
+    "hylde": "",
+    "antal": 1,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Land: Highland, Skotland"
+      }
+    ]
+  },
+  {
+    "id": 1700000000220,
+    "navn": "Glen Garioch, Single Malt (Wine Cask Matured)",
+    "kategori": "Whisky",
+    "aar": "16 år",
+    "styrke": "48",
+    "hylde": "",
+    "antal": 1,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Land: Highland, Skotland"
+      },
+      {
+        "dato": "",
+        "tekst": "Vintage/bottled: 2014"
+      },
+      {
+        "dato": "",
+        "tekst": "Noter: Small Batch release"
+      }
+    ]
+  },
+  {
+    "id": 1700000000221,
+    "navn": "Glenallachie Distillery, Single Malt Scotch Whisky - First Fill Sherry Hogshead - La Maison du Whisky Paris - Exclusive Bottling",
+    "kategori": "Whisky",
+    "aar": "12 år",
+    "styrke": "62.8",
+    "hylde": "",
+    "antal": 1,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Land: Speyside, Skotland"
+      },
+      {
+        "dato": "",
+        "tekst": "Vintage/bottled: 2019"
+      },
+      {
+        "dato": "",
+        "tekst": "Noter: La Maison du Whisky Paris - Exclusive Bottling"
+      }
+    ]
+  },
+  {
+    "id": 1700000000222,
+    "navn": "Glenburgie Distillery, First Fill Sherry Butt - 20 Rue D’ Anjou",
+    "kategori": "Whisky",
+    "aar": "12 år",
+    "styrke": "63.6",
+    "hylde": "",
+    "antal": 1,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Land: Speyside, Skotland"
+      },
+      {
+        "dato": "",
+        "tekst": "Vintage/bottled: 2019"
+      },
+      {
+        "dato": "",
+        "tekst": "Noter: Speyside Single malt Scotch Whisky - selected by Florian Fere - La Maison Du Whisky Paris - 595 bottles"
+      }
+    ]
+  },
+  {
+    "id": 1700000000223,
+    "navn": "Glenfiddich, Single Malt Scotch Whisky (Oloroso sherry & bourbon cask)",
+    "kategori": "Whisky",
+    "aar": "18 år",
+    "styrke": "",
+    "hylde": "",
+    "antal": 1,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": []
+  },
+  {
+    "id": 1700000000224,
+    "navn": "Hazelburn, Single Cask - Triple distilled",
+    "kategori": "Whisky",
+    "aar": "10 år",
+    "styrke": "58.8",
+    "hylde": "",
+    "antal": 2,
+    "pris": "",
+    "billede": "",
+    "aaben": true,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Land: Springbank, Skotland"
+      },
+      {
+        "dato": "",
+        "tekst": "Vintage/bottled: 2018"
+      },
+      {
+        "dato": "",
+        "tekst": "Noter: Bottled for Denmark - 258 Bottles"
+      }
+    ]
+  },
+  {
+    "id": 1700000000225,
+    "navn": "Hazelburn, Barolo Cask Matured",
+    "kategori": "Whisky",
+    "aar": "9 år",
+    "styrke": "57.9",
+    "hylde": "",
+    "antal": 1,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Land: Springbank, Skotland"
+      },
+      {
+        "dato": "",
+        "tekst": "Vintage/bottled: 2016"
+      },
+      {
+        "dato": "",
+        "tekst": "Noter: 10.800 Bottles"
+      }
+    ]
+  },
+  {
+    "id": 1700000000226,
+    "navn": "Hazelburn, Oloroso Cask Matured",
+    "kategori": "Whisky",
+    "aar": "13 år",
+    "styrke": "47.4",
+    "hylde": "",
+    "antal": 2,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Land: Springbank, Skotland"
+      },
+      {
+        "dato": "",
+        "tekst": "Vintage/bottled: 2018"
+      },
+      {
+        "dato": "",
+        "tekst": "Noter: 9.000 Bottles"
+      }
+    ]
+  },
+  {
+    "id": 1700000000227,
+    "navn": "Kavalan, Single Malt Whisky - Sherry Oak Matured",
+    "kategori": "Whisky",
+    "aar": "2018",
+    "styrke": "46",
+    "hylde": "",
+    "antal": 1,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Land: Taiwan"
+      }
+    ]
+  },
+  {
+    "id": 1700000000228,
+    "navn": "Kavalan, Single Malt Whisky - Bourbon Oak Matured",
+    "kategori": "Whisky",
+    "aar": "2017",
+    "styrke": "46",
+    "hylde": "",
+    "antal": 1,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Land: Taiwan"
+      }
+    ]
+  },
+  {
+    "id": 1700000000229,
+    "navn": "Kavalan, Single Malt Whisky Selection (Ex Bourbon Cask - Cask Strength)",
+    "kategori": "Whisky",
+    "aar": "2016",
+    "styrke": "57.1",
+    "hylde": "",
+    "antal": 2,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Land: Taiwan"
+      },
+      {
+        "dato": "",
+        "tekst": "Noter: Especially Bottled to celebrate Juuls 90th jubilee - 180 bottles"
+      }
+    ]
+  },
+  {
+    "id": 1700000000230,
+    "navn": "Kavalan, Single Malt Whisky Selection (Sherry Cask - Cask Strength)",
+    "kategori": "Whisky",
+    "aar": "2018",
+    "styrke": "57.8",
+    "hylde": "",
+    "antal": 1,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Land: Taiwan"
+      },
+      {
+        "dato": "",
+        "tekst": "Noter: 20 Rue d’ Anjou 50th Anniversary - 491 bottles"
+      }
+    ]
+  },
+  {
+    "id": 1700000000231,
+    "navn": "King George IV, Finest Old Scotch Whisky",
+    "kategori": "Whisky",
+    "aar": "",
+    "styrke": "40",
+    "hylde": "",
+    "antal": 1,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Land: Edinburgh, Skotland"
+      },
+      {
+        "dato": "",
+        "tekst": "Noter: Bedstefars flaske"
+      }
+    ]
+  },
+  {
+    "id": 1700000000232,
+    "navn": "Linkwood Distillery, Gordon & Macphail Reserve Single Malt Scotch Whisky",
+    "kategori": "Whisky",
+    "aar": "16 år",
+    "styrke": "46",
+    "hylde": "",
+    "antal": 1,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Land: Speyside, Skotland"
+      },
+      {
+        "dato": "",
+        "tekst": "Vintage/bottled: 2013"
+      },
+      {
+        "dato": "",
+        "tekst": "Noter: Exclusively bottled for Denmark - 306 bottles"
+      }
+    ]
+  },
+  {
+    "id": 1700000000233,
+    "navn": "Macallan, Whisky Galore (Sherry Finish)",
+    "kategori": "Whisky",
+    "aar": "14 år",
+    "styrke": "46",
+    "hylde": "",
+    "antal": 1,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Land: Speyside, Skotland"
+      },
+      {
+        "dato": "",
+        "tekst": "Vintage/bottled: 2003"
+      }
+    ]
+  },
+  {
+    "id": 1700000000234,
+    "navn": "Macallan, Single Malt - Sherry Oak Cask",
+    "kategori": "Whisky",
+    "aar": "12 år",
+    "styrke": "40",
+    "hylde": "",
+    "antal": 1,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Land: Speyside, Skotland"
+      }
+    ]
+  },
+  {
+    "id": 1700000000235,
+    "navn": "Macallan, Triple Cask Matured",
+    "kategori": "Whisky",
+    "aar": "15 år",
+    "styrke": "43",
+    "hylde": "",
+    "antal": 1,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Land: Speyside, Skotland"
+      }
+    ]
+  },
+  {
+    "id": 1700000000236,
+    "navn": "Mackmyra, Svensk Single Malt - Den Førsta Utgavan",
+    "kategori": "Whisky",
+    "aar": "",
+    "styrke": "46.1",
+    "hylde": "",
+    "antal": 1,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Land: Sverige"
+      }
+    ]
+  },
+  {
+    "id": 1700000000237,
+    "navn": "Mortlach, Gordon & Macphail Single Malt Scotch Whisky",
+    "kategori": "Whisky",
+    "aar": "15 år",
+    "styrke": "43",
+    "hylde": "",
+    "antal": 1,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Land: Speyside, Skotland"
+      }
+    ]
+  },
+  {
+    "id": 1700000000238,
+    "navn": "Nikka Whiskey, Single Malt Miyagikyo",
+    "kategori": "Whisky",
+    "aar": "",
+    "styrke": "45",
+    "hylde": "",
+    "antal": 1,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Land: Japan"
+      },
+      {
+        "dato": "",
+        "tekst": "Noter: Importeret af La Maison du Whisky, Paris"
+      }
+    ]
+  },
+  {
+    "id": 1700000000239,
+    "navn": "Glenburgie, Gordon & Macphail",
+    "kategori": "Whisky",
+    "aar": "21 år",
+    "styrke": "43",
+    "hylde": "",
+    "antal": 1,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": []
+  },
+  {
+    "id": 1700000000240,
+    "navn": "Glenburgie, Gordon & Macphail",
+    "kategori": "Whisky",
+    "aar": "21 år",
+    "styrke": "57.4",
+    "hylde": "",
+    "antal": 1,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Noter: Exclusively bottled for Juul’s"
+      }
+    ]
+  },
+  {
+    "id": 1700000000241,
+    "navn": "Damoiseau, Rhum Veux",
+    "kategori": "Rom",
+    "aar": "Millesime 2009",
+    "styrke": "58.4",
+    "hylde": "",
+    "antal": 3,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Land: Guadeloupe"
+      }
+    ]
+  },
+  {
+    "id": 1700000000242,
+    "navn": "Hampden Estate, Pure Single Jamaican Rum",
+    "kategori": "Rom",
+    "aar": "7 Years",
+    "styrke": "46",
+    "hylde": "",
+    "antal": 1,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Land: Jamaica"
+      }
+    ]
+  },
+  {
+    "id": 1700000000243,
+    "navn": "Hampden Estate, Pure Single Jamaican Rum Overproof",
+    "kategori": "Rom",
+    "aar": "7 Years",
+    "styrke": "60",
+    "hylde": "",
+    "antal": 1,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Land: Jamaica"
+      }
+    ]
+  },
+  {
+    "id": 1700000000244,
+    "navn": "Plantation, Vintage Collection Fiji Islands",
+    "kategori": "Rom",
+    "aar": "15 Years",
+    "styrke": "50.2",
+    "hylde": "",
+    "antal": 1,
+    "pris": "",
+    "billede": "",
+    "aaben": true,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Land: Fiji - France"
+      },
+      {
+        "dato": "",
+        "tekst": "Vintage: 2005"
+      },
+      {
+        "dato": "",
+        "tekst": "Noter: One Time Limited Edition 24 casks"
+      }
+    ]
+  },
+  {
+    "id": 1700000000245,
+    "navn": "Plantation, Vintage Collection Barbados",
+    "kategori": "Rom",
+    "aar": "9 Years",
+    "styrke": "51.1",
+    "hylde": "",
+    "antal": 1,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Land: Barbados - France"
+      },
+      {
+        "dato": "",
+        "tekst": "Vintage: 2011"
+      },
+      {
+        "dato": "",
+        "tekst": "Noter: One Time Limited Edition 24 casks"
+      }
+    ]
+  },
+  {
+    "id": 1700000000246,
+    "navn": "Plantation, Barbados-Jamaica XO (High Esters) Single Cask - Limited Edition",
+    "kategori": "Rom",
+    "aar": "",
+    "styrke": "45",
+    "hylde": "",
+    "antal": 1,
+    "pris": "",
+    "billede": "",
+    "aaben": false,
+    "noter": [
+      {
+        "dato": "",
+        "tekst": "Land: Barbados - Jamaica"
+      },
+      {
+        "dato": "",
+        "tekst": "Noter: Cask no 22 - Bottle no 230"
+      }
+    ]
+  }
+]
